@@ -9,10 +9,11 @@ bo wszystko jest bardzo zlozone i czasochonne, ale do ulozenia
 # tabelka
 
 | ilosc elementow |czas           |
-| --------------- |--------------:|
+| --------------: |--------------:|
 |1500             |2 dni          |
 |1000             |               |
-| 500             |               |
+|500              |               |
+|24               |5 min.         |
 
 # linki
 
