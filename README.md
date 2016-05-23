@@ -9,7 +9,7 @@ bo wszystko (zwaszcza informatyka!) jest bardzo zlozone i czasochonne, ale do ul
 ![puzzelki]( https://avatars0.githubusercontent.com/u/17691708?v=3&s=460)
 
 wybrzeze Hiszpanii - 1500 szt.
-![puzzelki_4](https://github.com/aniawr/o-puzzlach/puzzle_4.jpg)
+![puzzelki_4](puzzle_4.jpg)
 
 jak juz puzzelki sa ulozone, zdjecie zrobione, to czas je... podniesc :-)
 ![puzzelki_5](https://github.com/aniawr/o-puzzlach/puzzle_5.jpg)
