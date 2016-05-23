@@ -8,7 +8,9 @@ bo wszystko (zwaszcza informatyka!) jest bardzo zlozone i czasochonne, ale do ul
 #moje puzzelki
 ![puzzelki]( https://avatars0.githubusercontent.com/u/17691708?v=3&s=460)
 
-![puzzelki]( https://avatars0.githubusercontent.com/u/17691708?v=3&s=460)
+![puzzelki](o-puzzlach/puzzle_4.jpg)
+
+![puzzelki](o-puzzlach/puzzle_5.jpg)
 
 # tabelka
 
