@@ -16,6 +16,10 @@ jak juz puzzelki sa ulozone, zdjecie zrobione, to czas je... podniesc :four_leaf
 
 ![puzzelki_5](puzzle_5.jpg)
 
+puzzeli z trojwymiarowym efektem - bardzo meczace dla oczu podczas ukladania
+
+![puzzelki_6](puzzle_6.jpg)
+
 # tabelka
 
 | ilosc elementow |czas           |
