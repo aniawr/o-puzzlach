@@ -16,9 +16,13 @@ jak juz puzzelki sa ulozone, zdjecie zrobione, to czas je... podniesc :four_leaf
 
 ![puzzelki_5](puzzle_5.jpg)
 
-puzzeli z trojwymiarowym efektem - bardzo meczace dla oczu podczas ukladania
+puzzle z trojwymiarowym efektem - bardzo meczace dla oczu podczas ukladania
 
 ![puzzelki_6](puzzle_6.jpg)
+
+największe puuzle świata -  551 232 kawałki. Wymiar calego obrazka 14,85m x 23,20m.
+
+![puzzelki_rekord](http://biurorekordow.pl/wp-content/uploads/2011/10/najwieksze-puzzle-swiata.jpg)
 
 # tabelka
 
