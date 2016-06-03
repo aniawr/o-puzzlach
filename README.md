@@ -26,12 +26,14 @@ największe puuzle świata -  551 232 kawałki. Wymiar calego obrazka 14,85m x 2
 
 # tabelka
 
-| ilosc elementow |czas           |
-| --------------: |--------------:|
-|1500             |2 dni          |
-|1000             |prawie 2 dni   |
-|500              |4 h            |
-|24               |5 min.         |
+| ilosc elementow |czas            |
+| --------------: |---------------:|
+|   1 500         |2 dni           |
+|   1 000         |prawie 2 dni    |
+|     500         |4 h             |
+|      24         |5 min.          |
+| 551 232         |17 h w 1600 osób|
+
 
 # linki
 
